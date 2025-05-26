@@ -1,6 +1,6 @@
 ### Hello! 👋 I'm Madalina Bacosca
 
-I'm an **Aerospace Engineering graduate** with a passion for **Python Programming** and **Machine Learning**. I enjoy solving technical challenges, learning new technologies, and exploring the intersection of engineering and software development.
+I'm an **Aerospace Engineering graduate** with a passion for **Python Programming** and **Data Science**. I enjoy solving technical challenges, learning new technologies, and exploring the intersection of engineering and software development.
 
 ---
 
